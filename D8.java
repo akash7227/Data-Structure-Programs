@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import java.util.*;
 
 class Test{
@@ -91,6 +92,8 @@ class D8{
 
 }
 =======
+=======
+>>>>>>> d1692f61094a60b8d039c6a8d561991ddf4d5ae3
 import java.util.*;
 class Test{
 	
@@ -157,4 +160,7 @@ class D8{
 	
 
 }
+<<<<<<< HEAD
+>>>>>>> d1692f61094a60b8d039c6a8d561991ddf4d5ae3
+=======
 >>>>>>> d1692f61094a60b8d039c6a8d561991ddf4d5ae3
